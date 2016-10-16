@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7326cfff469e74319a8cb00c1aa83d26
+timeCreated: 1476561954
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - socketIO: {fileID: 11400000, guid: 010d39cbd03ee4c99a746c1f8ecdc0d8, type: 2}
+  - connectionCodeField: {instanceID: 0}
+  - connectionText: {instanceID: 0}
+  - welcomeText: {instanceID: 0}
+  - playButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
